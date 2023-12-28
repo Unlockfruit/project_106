@@ -1,0 +1,36 @@
+body{
+    background-color: #ffffff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg fill='%230ad7d1' fill-opacity='0.4'%3E%3Cpolygon fill-rule='evenodd' points='8 4 12 6 8 8 6 12 4 8 0 6 4 4 6 0 8 4'/%3E%3C/g%3E%3C/svg%3E");
+    font-family: 'Akaya Telivigala', cursive;
+}
+.header_div{
+    background: #10effe;
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color: #69e671;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(69, 177, 183);
+}
+h4{
+    font-size: 25px;
+}
